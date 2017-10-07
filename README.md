@@ -1,4 +1,2 @@
 # hello-world
-
-My first try!
-Thanks!
+Just try
